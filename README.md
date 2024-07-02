@@ -79,4 +79,4 @@ Console Game Launch Instructions:
 
 | Doxygen documentation                                                                                      | Game screen                                                                                                |
 |:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| ![](https://user-images.githubusercontent.com/73189722/132677316-b59a22ac-3460-4c5c-bb3f-c43f4ba0897f.png) |  |
+| ![](https://user-images.githubusercontent.com/73189722/132677316-b59a22ac-3460-4c5c-bb3f-c43f4ba0897f.png) | ![](https://github.com/MarcinBrojek/ipp-gamma/assets/73189722/a63b4f10-ff38-464e-a09d-c04dc5a0d82c)|
