@@ -1,0 +1,32 @@
+/**
+@mainpage Dokumentacja zadania gamma
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu gry gammma.
+
+Program został stworzony w oparciu o moduły.
+
+W pierwszej części projektu zdefiniowane zostały:
+ - gamma_stucture    , odpowiedzialny za strukturę przechowującą stan gry gamma,
+ - gamma_helpers     , wszelkie pomocnicze funkcje dla struktury gamma,
+ - gamma             , główny moduł przechowujący kluczowe polecenia dla gry.
+
+W drugiej części projektu zdefiniowane zostały:
+ - gamma_command     , odpowiedzialny za strukturę polecenia z gry,
+ - gamma_parser      , parsujący dane,
+ - gamma_printer     , odpowiedzialny za wypisywanie,
+ - gamma_batch       , realizujący tryb wsadowy,
+ - gamma_interactive , realizujący tryb interaktywny,
+ - gamma_main        , główny moduł odpowiedzialny za rozgrywkę.
+
+Dostępne polecenia w trzeciej części projektu:
+ - make              , tworzy plik wykonywalny gamma całej gry,
+ - make test         , tworzy plik wykonywalny gamma_test z testami silnika gry,
+ - make doc          , tworzy dokumentację w formacie doxygen.
+
+*/
